@@ -1,2 +1,3 @@
-# C3
-A data augmentation framework that enhances cross-modal retrieval performance by improving the completeness and consistency of LLM-generated descriptions.
+# C³: Completeness and Consistency for Cross-Modal Retrieval
+LLM-Driven Completeness and Consistency Evaluation for Cultural Heritage Data Augmentation in Cross-Modal Retrieval, EMNLP2025.
+
