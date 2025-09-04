@@ -30,15 +30,18 @@ Cross-modal retrieval is essential for interpreting cultural heritage data, but 
 
 
 ---
+## 📜 Citation
+If you use our work, please cite the following paper:
 
-## ⚙️ Usage
+ ```bash
 
-This section should detail how to use your code.
-
-### Data Preparation
-
-Describe the steps required to prepare the datasets. Include links to the datasets if they are public, and explain the expected directory structure.
-
-```bash
-# Example command to run a data preparation script
-python scripts/prepare_data.py --dataset_path /path/to/your/dataset
+@inproceedings{yourlastname2025c3,
+  title={{C³: Completeness and Consistency for Cross-Modal Retrieval}},
+  author={Author 1 and Author 2 and Author 3},
+  booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  year={2025},
+  publisher={Association for Computational Linguistics},
+  pages={xx--yy},
+  location={Your Conference Location}
+}
+ ```
