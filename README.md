@@ -35,7 +35,7 @@ If you use our work, please cite the following paper:
 
  ```bash
 
-@inproceedings{yourlastname2025c3,
+@inproceedings{zhang2025c3,
   title={LLM-Driven Completeness and Consistency Evaluation for Cultural Heritage Data Augmentation in Cross-Modal Retrieval},
   year={2025}
 
