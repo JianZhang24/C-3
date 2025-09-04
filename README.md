@@ -8,11 +8,7 @@ A Paper accepted at EMNLP 2025.
 
 ## 📖 Abstract
 
-*This section should contain the abstract of your paper. It provides a concise summary of the research, including the problem, the proposed solution, the methodology, and the key findings. It's recommended to keep it to a few paragraphs.*
-
-**Example:**
-
-Cross-modal retrieval for cultural heritage data often suffers from incomplete and inconsistent annotations. This work introduces C³, a novel framework that leverages Large Language Models (LLMs) to evaluate and enhance the **C**ompleteness and **C**onsistency of textual descriptions associated with cultural heritage images. Our method employs an LLM-driven evaluation pipeline to identify gaps and inaccuracies in existing metadata. Subsequently, we propose a data augmentation strategy that uses the LLM's generative capabilities to create richer, more consistent textual data. By improving the quality of the data, our approach significantly boosts the performance of cross-modal retrieval systems, enabling more accurate and meaningful discovery of cultural heritage artifacts. We demonstrate the effectiveness of our framework on several challenging cultural heritage datasets, showing marked improvements over baseline methods.
+Cross-modal retrieval is essential for interpreting cultural heritage data, but its effectiveness is often limited by incomplete or inconsistent textual descriptions, caused by historical data loss and the high cost of expert annotation. While large language models (LLMs) offer a promising solution by enriching textual descriptions, their outputs frequently suffer from hallucinations or miss visually grounded details. To address these challenges, we propose $C^3$, a data augmentation framework that enhances cross-modal retrieval performance by improving the completeness and consistency of LLM-generated descriptions. $C^3$ introduces a completeness evaluation module to assess semantic coverage using both visual cues and language-model outputs. Furthermore, to mitigate factual inconsistencies, we formulate a Markov Decision Process to supervise Chain-of-Thought reasoning, guiding consistency verification through adaptive query control. Experiments on the cultural heritage datasets CulTi and TimeTravel, as well as on general benchmarks MSCOCO and Flickr30K, demonstrate that $C^3$ achieves state-of-the-art performance in both fine-tuned and zero-shot settings. 
 
 ---
 
