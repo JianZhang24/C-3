@@ -36,12 +36,8 @@ If you use our work, please cite the following paper:
  ```bash
 
 @inproceedings{yourlastname2025c3,
-  title={{C³: Completeness and Consistency for Cross-Modal Retrieval}},
-  author={Author 1 and Author 2 and Author 3},
-  booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
-  year={2025},
-  publisher={Association for Computational Linguistics},
-  pages={xx--yy},
-  location={Your Conference Location}
+  title={LLM-Driven Completeness and Consistency Evaluation for Cultural Heritage Data Augmentation in Cross-Modal Retrieval},
+  year={2025}
+
 }
  ```
