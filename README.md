@@ -41,3 +41,7 @@ If you use our work, please cite the following paper:
 
 }
  ```
+
+---
+## 📞 Contact
+For questions or collaborations, please open an issue or contact Jian Zhang.
