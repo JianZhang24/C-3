@@ -12,7 +12,11 @@ Cross-modal retrieval is essential for interpreting cultural heritage data, but 
 
 ![fig](./fig.png)
 ---
+## 📂 Related Resources
 
+- [CulTi Dataset (GitHub)](https://github.com/yyyjjy/CulTi)
+
+---
 ## 🛠️ Installation & Setup
 
 1.  **Clone the repository:**
@@ -40,7 +44,18 @@ If you use our work, please cite the following paper:
   author={Jian Zhang, Junyi Guo, Junyi Yuan, Huanda Lu, Yanlin Zhou, Fangyu Wu, Qiufeng Wang, Dongming Lu},
   year={2025}
 
+
+
+
 }
+
+@inproceedings{yuan2025culti,
+  title={Towards Cross-modal Retrieval in Chinese Cultural Heritage Documents: Dataset and Solution},
+  author={Yuan, Junyi and Zhang, Jian and Wu, Fangyu and Lu, Huanda and Lu, Dongming and Wang, Qiufeng},
+  booktitle={ICDAR},
+  year={2023}
+}
+
  ```
 
 ---
