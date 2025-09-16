@@ -14,7 +14,7 @@ Cross-modal retrieval is essential for interpreting cultural heritage data, but 
 ---
 ## 📂 Related Resources
 
-- [CulTi Dataset (GitHub)](https://github.com/yyyjjy/CulTi)
+[![GitHub - CulTi Dataset](https://img.shields.io/badge/CulTi%20Dataset-GitHub-black?logo=github)](https://github.com/yyyjjy/CulTi)
 
 ---
 ## 🛠️ Installation & Setup
